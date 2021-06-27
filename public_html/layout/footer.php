@@ -28,7 +28,7 @@
             <div id="footer-social">
                 <p><em><?= _MAIN_SOCIAL ?></em></p>
                 <p><a href="https://www.linkedin.com/in/adri%C3%A0-alberich-jaume-744191122/" target="_blank">Linkedin</a></p>
-                <p><a href="" target="_blank">Stack Overflow</a></p>
+                <p><a href="https://github.com/AdriaAlberich" target="_blank">Github</a></p>
             </div>
         </footer>
         <div id="scrollTop" class="scrollTop invisible" onclick="goUp()">^</div>
