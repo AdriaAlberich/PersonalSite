@@ -4,7 +4,7 @@
  
 	$url = 'https://www.google.com/recaptcha/api/siteverify';
 	$data = array(
-		'secret' => '6LelxWkUAAAAAKvTECV8sIXIlpZWflvKZKxeLpbW',
+		'secret' => '6LctbmgbAAAAAIJZnJc_8Q8Kj07wjMVDfWnYhkT9',
 		'response' => $recaptcha
 	);
 	$options = array(
@@ -17,9 +17,9 @@
 	$verify = file_get_contents($url, false, $context);
 	$captcha_success = json_decode($verify);
 	if ($captcha_success->success) {
-        $to = "info@webvers.net, alberichjaumeadria@gmail.com";
+        $to = "alberichjaumeadria@gmail.com";
     
-        $subject = "Webvers - " . $_POST['subject'];
+        $subject = "adrialberich.com - " . $_POST['subject'];
 
         $messagestr = str_replace("\n","</br>", $_POST['message']);
 
@@ -40,7 +40,7 @@
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-        $headers .= 'From: <info@webvers.net>' . "\r\n";
+        $headers .= 'From: <me@adrialberich.com>' . "\r\n";
 
         if(mail($to,$subject,$message,$headers)) {
             header("Location: contact?success=1");

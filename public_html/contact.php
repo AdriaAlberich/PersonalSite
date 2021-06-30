@@ -42,7 +42,7 @@
                     <span class="checkmark" id="checkmark"></span>
                 </label>
             </div>
-            <div id="recaptcha" class="g-recaptcha" data-sitekey="6LelxWkUAAAAALitThTO0EXMHA2-WFt3OmXRrFd7"></div>
+            <div id="recaptcha" class="g-recaptcha" data-sitekey="6LctbmgbAAAAAHHOitm2wrCxVmOz-EJz5uFtOBT1"></div>
             <input type="button" id="send-button" onclick="sendForm()" value="<?= _CONTACT_FORM_SEND_BUTTON ?>">
         </form>
     </main>
