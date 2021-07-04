@@ -47,9 +47,9 @@
                 <div class="dropdown">
                     <button class="dropbtn"><?php if(isset($_SESSION['lang'])) { switch($_SESSION['lang']) { case 'ca': echo 'Idioma'; break; case 'es': echo 'Idioma'; break; case 'en': echo 'Language'; break; default: echo 'Idioma'; } }else{ echo 'Idioma'; } ?></button>
                     <div class="dropdown-content">
+                        <a href="#" onclick="changeLang('en');"><img src="../assets/img/flag_en.png">&nbsp;English</a>
                         <a href="#" onclick="changeLang('ca');"><img src="../assets/img/flag_ca.png">&nbsp;Català</a>
                         <a href="#" onclick="changeLang('es');"><img src="../assets/img/flag_es.png">&nbsp;Español</a>
-                        <!--<a href="#" onclick="changeLang('en');"><img src="../assets/img/flag_en.png">&nbsp;English</a>-->
                     </div>
                 </div>
                 <a id="collapseBtn" class="icon" href="javascript:void(0);" onclick="navCollapse()">+</a>

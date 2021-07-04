@@ -13,44 +13,18 @@
     define("_MAIN_DIALOG_ACCEPT", "Acceptar");
     define("_MAIN_DIALOG_CANCEL", "Cancel·lar");
 
-    //Home
-    define("_HOME_NAME", "Principal");
-    define("_HOME_TITLE", "Principal");
-    define("_HOME_HEADER_TITLE", "Solucions tecnològiques per al seu negoci");
-    define("_HOME_HEADER_DESCRIPTION_INTRO", "Disseny de pàgines web, hosting web, sistemes de gestió, correu electrònic, email marketing, SEO, programació a la carta... tot dins la nostra pròpia infraestructura al núvol.");
-    define("_HOME_LAST_NEWS", "Últimes novetats");
-    define("_HOME_TECHNOLOGIES", "Utilitzem ...");
-    define("_HOME_MUCH_MORE", "... i molt més!");
-    define("_HOME_GOTO_PORTFOLIO", "Consultar serveis");
-    define("_HOME_GOTO_BLOG", "Anar al blog");
-    define("_HOME_SLIDE_FIRST_TITLE", "Necessita un cop de mà?");
-    define("_HOME_SLIDE_FIRST_DESCRIPTION", "Sabem com millorar els processos del seu negoci.");
-    define("_HOME_SLIDE_SECOND_TITLE", "Noves idees");
-    define("_HOME_SLIDE_SECOND_DESCRIPTION", "Apliquem l'última tecnologia i idees innovadores al seu cas concret.");
-    define("_HOME_SLIDE_THIRD_TITLE", "Tot al núvol");
-    define("_HOME_SLIDE_THIRD_DESCRIPTION", "A Webvers utilitzem tota la potència del Cloud Computing per al seu projecte.");
-    define("_HOME_SLIDE_FORTH_TITLE", "Apassionats del codi");
-    define("_HOME_SLIDE_FORTH_DESCRIPTION", "Som programadors qualificats i oberts a tot tipus de reptes.");
-    define("_HOME_SLIDE_FIFTH_TITLE", "Experts en E-Mail Marketing");
-    define("_HOME_SLIDE_FIFTH_DESCRIPTION", "Tenim experiència en campanyes de màrqueting per correu electrònic.");
-    define("_HOME_OFFERS_TITLE", "Les nostres ofertes");
-    define("_HOME_OFFERS_1_TITLE", "Botiga en línia");
-    define("_HOME_OFFERS_1_DESCRIPTION", "Comenci a vendre online, a partir de 40€ al mes.");
-    define("_HOME_OFFERS_2_TITLE", "Pàgina corporativa");
-    define("_HOME_OFFERS_2_DESCRIPTION", "La seva empresa visible a internet, a partir de 30€ al mes.");
-    define("_HOME_OFFERS_3_TITLE", "Restauració");
-    define("_HOME_OFFERS_3_DESCRIPTION", "Especial per a restaurants i bars. A partir de 20€ al mes.");
-    define("_HOME_OFFERS_4_TITLE", "Microsite");
-    define("_HOME_OFFERS_4_DESCRIPTION", "Microsite més newsletter, tot inclòs a partir de 200€.");
-    define("_HOME_OFFERS_5_TITLE", "Correu electrònic");
-    define("_HOME_OFFERS_5_DESCRIPTION", "Domini personalitzat i còpies de seguretat per 8€ al mes.");
-    define("_HOME_OFFERS_6_TITLE", "Manteniment web");
-    define("_HOME_OFFERS_6_DESCRIPTION", "Allotjament web amb manteniment a partir de 20€ al mes.");
-    define("_HOME_OFFERS_7_TITLE", "Optimització");
-    define("_HOME_OFFERS_7_DESCRIPTION", "Optimització SEO de la seva pàgina web a partir de 10€ al mes.");
-    define("_HOME_OFFERS_8_TITLE", "Per a PIMES");
-    define("_HOME_OFFERS_8_DESCRIPTION", "Sistema de gestió empresarial amb infraestructura a partir de 50€ al mes.");
-    define("_HOME_OFFERS_CONTRACT", "Contractar");
+    // About me
+    define("_ABOUT_NAME", "Sobre mi");
+    define("_ABOUT_TITLE", "Sobre mi");
+    define("_ABOUT_HEADER_TITLE", "Sobre mi");
+    define("_ABOUT_WHOIAM_TITLE", "Qui soc?");
+    define("_ABOUT_WHOIAM_P1", "Em dic Adrià i sóc desenvolupador professional de l'entorn .NET des de fa uns 6 anys i actualment consultor de l'entorn Microsoft. La meva passió per la informàtica i la tecnologia es va començar a gestar cap al 2006, cap aquella època tenia uns 14 anys i va ser quan vaig tenir el meu primer ordinador amb connexió de banda ampla.");
+    define("_ABOUT_WHOIAM_P2", "No vaig trigar a aprendre pel meu compte com codificar pàgines web i programes senzills en aquella època amb HTML i Visual Basic 6. Posteriorment va esdevenir un dels meus principals hobbies, sobretot centrant-me en la programació d'eines orientades a videojocs.");
+    define("_ABOUT_WHOIAM_P3", "Cap al 2011 vaig decidir començar a derivar els meus estudis cap a la programació professional i vaig anar alternant diferents etapes d'estudis i feina. Inicialment em vaig centrar en la programació d'aplicacions web però amb el pas dels anys  he anat derivant cap a diferents productes Microsoft i actualment es on m'estic especialitzant.");
+    define("_ABOUT_HOWIWORK_TITLE", "Com treballo?");
+    define("_ABOUT_HOWIWORK_P1", "Dins de les tecnologies de l'entorn Microsoft, estic especialitzat en .NET i C# principalment de la part de backend, tot i que domino perfectament tecnologies frontend com HTML5, CSS3, JS, Bootstrap i recentment Angular.");
+    define("_ABOUT_HOWIWORK_P2", "També he treballat amb l'entorn de Microsoft Dynamics 365 i des de fa poc m'he endinsat a Microsoft Power Platform (Power Apps i Power Automate) i Microsoft Azure.");
+    define("_ABOUT_HOWIWORK_P3", "Pel que fa a bases de dades, tinc bons coneixements de Transact-SQL, he treballat sobretot amb SQL Server, MySQL i una mica d'Oracle. Recentment estic aprenent NoSQL amb MongoDB.");
 
     // Portfolio
     define("_PORTFOLIO_NAME", "Portafolis");
@@ -79,13 +53,6 @@
     define("_PORTFOLIO_SECTION_GAMEINSTANCE_TITLE", "GameInstance");
     define("_PORTFOLIO_SECTION_GAMEINSTANCE_DESCRIPTION", "GameInstance es un projecte recent, actualment en fase de disseny. La idea es realitzar un sistema que permeti als usuaris contractar servidors de videojocs per jugar online, directament al núvol i amb possibilitat de facturació per hores d'ús, arxivament de les instàncies, entre d'altres.");
 
-    // About me
-    define("_ABOUT_NAME", "Sobre mi");
-    define("_ABOUT_TITLE", "Sobre mi");
-    define("_ABOUT_HEADER_TITLE", "Sobre mi");
-    define("_ABOUT_WHOIAM_TITLE", "Qui soc?");
-    define("_ABOUT_WHOIAM_INTRO", "Em dic Adrià, sóc desenvolupador de l'entorn .NET des de fa uns 6 anys. He treballat en diversos projectes, tant per client final, consultores IT o inclús com a freelance. A part de la feina, programar per mi es la meva passió i sempre que tinc temps m'agrada treballar en side projects. Dins de les tecnologies de l'entorn Microsoft, estic especialitzat en .NET i C# principalment de la part de backend, tot i que domino perfectament tecnologies frontend com HTML5, CSS3, JS, Bootstrap i recentment Angular. També he treballat amb l'entorn de Dynamics 365 i des de fa poc m'he endinsat a Power Platform (Power Apps i Power Automate). Pel que fa a bases de dades, he treballat sobretot amb SQL Server, MySQL i una mica d'Oracle. Recentment estic aprenent NoSQL amb MongoDB.");
-    
     // Contact
     define("_CONTACT_NAME", "Contacta");
     define("_CONTACT_TITLE", "Contacta");

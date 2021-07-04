@@ -18,7 +18,7 @@
         //$lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
         //$acceptLang = ['ca', 'es']; 
         //$lang = in_array($lang, $acceptLang) ? $lang : 'es';
-        $lang = 'es';
+        $lang = 'en';
         include realpath(dirname(__FILE__) . "/../resources/lang/{$lang}.php");
     }
 

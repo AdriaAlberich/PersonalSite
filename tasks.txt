@@ -1,0 +1,9 @@
+- Add personal photo.
+- Adjust styles and transparencies.
+- Translate to english and spanish.
+- Add project icons or images.
+- Add github repo links.
+- Change <li> dot image.
+- Change favicon.
+- Fix self-signed certificate (https).
+- General cleanup.

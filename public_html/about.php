@@ -1,8 +1,6 @@
 <?php
     session_start();
 
-    require_once(realpath(dirname(__FILE__) . "/../resources/config.php"));
-
     require_once(realpath(dirname(__FILE__) . "/../resources/lang_setup.php"));
 
     $_SESSION['page_title'] = _MAIN_TITLE . _ABOUT_TITLE;
@@ -18,9 +16,18 @@
 <br/>
 <section class="section-item section-item-orange">
     <div style="float: left">
+        <img src="./assets/img/photo.jpg"/>
         <header><?= _ABOUT_WHOIAM_TITLE ?></header>
         <main>
-            <p><?= _ABOUT_WHOIAM_INTRO ?></p>
+            <p><?= _ABOUT_WHOIAM_P1 ?></p>
+            <p><?= _ABOUT_WHOIAM_P2 ?></p>
+            <p><?= _ABOUT_WHOIAM_P3 ?></p>
+        </main>
+        <header><?= _ABOUT_HOWIWORK_TITLE ?></header>
+        <main>
+            <p><?= _ABOUT_HOWIWORK_P1 ?></p>
+            <p><?= _ABOUT_HOWIWORK_P2 ?></p>
+            <p><?= _ABOUT_HOWIWORK_P3 ?></p>
         </main>
     </div>
 </section>

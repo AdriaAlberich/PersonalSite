@@ -1,8 +1,6 @@
 <?php
     session_start();
 
-    require_once(realpath(dirname(__FILE__) . "/../resources/config.php"));
-
     require_once(realpath(dirname(__FILE__) . "/../resources/lang_setup.php"));
 
     $_SESSION['page_title'] = _MAIN_TITLE . _CONTACT_TITLE;
