@@ -25,7 +25,6 @@
     <main>
         <p><?= _CONTACT_FORM_HEADER_TEXT_1 ?></p>
         <p><a href="mailto:<?= _MAIN_EMAIL ?>" target="_blank"><?= _MAIN_EMAIL ?></a></p>
-        <p><?= _MAIN_PHONE ?></p>
         <p><?= _CONTACT_FORM_HEADER_TEXT_2 ?></p>
         <form id="contact-form" method="POST" action="sendContactForm">
             <input type="text" id="name" name="name" maxlength="64" placeholder="<?= _CONTACT_FORM_NAME ?>" onfocus="clearStyle(this)">

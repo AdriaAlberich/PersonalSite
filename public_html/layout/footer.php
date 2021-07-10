@@ -21,9 +21,6 @@
                 <p>
                     <a href="mailto:<?= _MAIN_EMAIL ?>" target="_blank"><?= _MAIN_EMAIL ?></a>
                 </p>
-                <p>
-                    <?= _MAIN_PHONE ?>
-                </p>
             </div>
             <div id="footer-social">
                 <p><em><?= _MAIN_SOCIAL ?></em></p>

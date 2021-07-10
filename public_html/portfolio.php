@@ -72,11 +72,8 @@
     <div style="float: left">
         <header><?= _PORTFOLIO_SECTION_PERSONALSITE_TITLE ?></header>
         <main>
-            <ul>
-                <li><?= _PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION ?></li>
-                <br/>
-                <li>Github Link</li>
-            </ul>
+            <p><?= _PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION ?></p>
+            <p><a href="https://github.com/AdriaAlberich/PersonalSite" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
         </main>
     </div>
 </section>
@@ -87,11 +84,8 @@
     <div style="float: left">
         <header><?= _PORTFOLIO_SECTION_SADEGELSTOCK_TITLE ?></header>
         <main>
-            <ul>
-                <li><?= _PORTFOLIO_SECTION_SADEGELSTOCK_DESCRIPTION ?></li>
-                <br/>
-                <li>Github Link</li>
-            </ul>
+            <p><?= _PORTFOLIO_SECTION_SADEGELSTOCK_DESCRIPTION ?></p>
+            <p><a href="https://github.com/AdriaAlberich/SadegelStock" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
         </main>
     </div>
 </section>
@@ -102,11 +96,8 @@
     <div style="float: left">
         <header><?= _PORTFOLIO_SECTION_REDRP_TITLE ?></header>
         <main>
-            <ul>
-                <li><?= _PORTFOLIO_SECTION_REDRP_DESCRIPTION ?></li>
-                <br/>
-                <li>Github Link</li>
-            </ul>
+            <p><?= _PORTFOLIO_SECTION_REDRP_DESCRIPTION ?></p>
+            <p><a href="https://github.com/AdriaAlberich/RedRP" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
         </main>
     </div>
 </section>
@@ -116,11 +107,8 @@
 <section class="section-item section-item-orange" id="mychef">
     <header><?= _PORTFOLIO_SECTION_MYCHEF_TITLE ?></header>
     <main>
-        <ul>
-            <li><?= _PORTFOLIO_SECTION_MYCHEF_DESCRIPTION ?></li>
-            <br/>
-            <li>Github Link</li>
-        </ul>
+        <p><?= _PORTFOLIO_SECTION_MYCHEF_DESCRIPTION ?></p>
+        <p><a href="https://github.com/AdriaAlberich/MyChef" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
     </main>
 </section>
 
@@ -129,11 +117,8 @@
 <section class="section-item section-item-orange" id="gameinstance">
     <header><?= _PORTFOLIO_SECTION_GAMEINSTANCE_TITLE ?></header>
     <main>
-        <ul>
-            <li><?= _PORTFOLIO_SECTION_GAMEINSTANCE_DESCRIPTION ?></li>
-            <br/>
-            <li>Github Link</li>
-        </ul>
+        <p><?= _PORTFOLIO_SECTION_GAMEINSTANCE_DESCRIPTION ?></p>
+        <p><a href="#" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
     </main>
 </section>
 

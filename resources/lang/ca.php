@@ -9,7 +9,6 @@
     define("_MAIN_COOKIE", "Al navegar per aquesta pàgina accepta que aquesta utilitza cookies tal com indica la nostra");
     define("_MAIN_COOKIE_POLICY", "Política de privacitat");
     define("_MAIN_EMAIL", "me@adrialberich.com");
-    define("_MAIN_PHONE", "+34 678 088 671 (Tlf + Whatsapp)");
     define("_MAIN_DIALOG_ACCEPT", "Acceptar");
     define("_MAIN_DIALOG_CANCEL", "Cancel·lar");
 
@@ -18,7 +17,7 @@
     define("_ABOUT_TITLE", "Sobre mi");
     define("_ABOUT_HEADER_TITLE", "Sobre mi");
     define("_ABOUT_WHOIAM_TITLE", "Qui soc?");
-    define("_ABOUT_WHOIAM_P1", "Em dic Adrià i sóc desenvolupador professional de l'entorn .NET des de fa uns 6 anys i actualment consultor de l'entorn Microsoft. La meva passió per la informàtica i la tecnologia es va començar a gestar cap al 2006, cap aquella època tenia uns 14 anys i va ser quan vaig tenir el meu primer ordinador amb connexió de banda ampla.");
+    define("_ABOUT_WHOIAM_P1", "Em dic Adrià Alberich i sóc desenvolupador professional de l'entorn .NET des de fa uns 6 anys i actualment consultor de l'entorn Microsoft. La meva passió per la informàtica i la tecnologia es va començar a gestar cap al 2006, cap aquella època tenia uns 14 anys i va ser quan vaig tenir el meu primer ordinador amb connexió de banda ampla.");
     define("_ABOUT_WHOIAM_P2", "No vaig trigar a aprendre pel meu compte com codificar pàgines web i programes senzills en aquella època amb HTML i Visual Basic 6. Posteriorment va esdevenir un dels meus principals hobbies, sobretot centrant-me en la programació d'eines orientades a videojocs.");
     define("_ABOUT_WHOIAM_P3", "Cap al 2011 vaig decidir començar a derivar els meus estudis cap a la programació professional i vaig anar alternant diferents etapes d'estudis i feina. Inicialment em vaig centrar en la programació d'aplicacions web però amb el pas dels anys  he anat derivant cap a diferents productes Microsoft i actualment es on m'estic especialitzant.");
     define("_ABOUT_HOWIWORK_TITLE", "Com treballo?");
@@ -56,8 +55,8 @@
     // Contact
     define("_CONTACT_NAME", "Contacta");
     define("_CONTACT_TITLE", "Contacta");
-    define("_CONTACT_FORM_HEADER_TEXT_1", "Per a qualsevol consulta pot escriure o trucar mitjançant les següents dades:");
-    define("_CONTACT_FORM_HEADER_TEXT_2", "O bé, si ho prefereix, empleni el següent formulari i rebrà una resposta el mes aviat possible.");
+    define("_CONTACT_FORM_HEADER_TEXT_1", "Per a qualsevol consulta pots escriure'm a:");
+    define("_CONTACT_FORM_HEADER_TEXT_2", "O bé, si ho prefereixes, emplena el següent formulari i rebràs una resposta el mes aviat possible.");
     define("_CONTACT_FORM_HEADER_TITLE", "Contacta");
     define("_CONTACT_FORM_PERSONAL_TITLE", "Les seves dades");
     define("_CONTACT_FORM_NAME", "Nom: ");
@@ -78,7 +77,7 @@
     define("_LEGAL_TITLE", "Avís Legal");
     define("_LEGAL_BODY", "adrialberich.com, a partir d'ara ADRIALBERICH es un lloc web personal i portafolis. La pàgina web s'adapta a les diferents normatives i lleis d'àmbit espanyol i europeu com poden ser la Llei Orgànica de Protecció de Dades (LOPD, Llei 15/1999) i el Reglament General de Protecció de Dades (RGPD, 95/46/CE), realitzant les diferents actuacions corresponents per a garantir la protecció de la privacitat dels seus visitants i clients. ADRIALBERICH es troba allotjat en servidors sota lloguer i localitzats físicament a França, i sota supervisió de l'empresa OVH Inc.");
     define("_LEGAL_OWNER_TITLE", "Responsable");
-    define("_LEGAL_OWNER_BODY", "El domini adrialberich.com es de titularitat de: Adrià Alberich Jaume amb NIF 47997458T i telèfon +34 678 088 671");
+    define("_LEGAL_OWNER_BODY", "El domini adrialberich.com es de titularitat de: Adrià Alberich amb NIF 47997458T (me@adrialberich.com)");
     define("_LEGAL_WARRANTY", "Garanties");
     define("_LEGAL_WARRANTY_BODY", "El responsable garanteix que les dades personals dels visitants i clients del lloc web son tractades segons requereix la Llei Orgànica de Protecció de Dades (LOPD, Llei 15/1999) i el Reglament General de Protecció de Dades (RGPD, 95/46/CE). Això significa que totes les dades son emmagatzemades en fitxers de forma segura i amb l'únic propòsit de millorar el servei cap al client. El responsable garanteix que no envia correus electrònics massius, ni tampoc intercanvia, ven o cedeix informació dels seus clients a tercers. El responsable garanteix que no s'emetrà cap mena de publicitat cap als seus clients, ja sigui de forma directa o indirecta amb anuncis dins del mateix lloc web.");
     define("_LEGAL_COOKIES", "Política de Cookies");
