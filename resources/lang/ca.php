@@ -2,11 +2,11 @@
 
     // Main
     define("_MAIN_TITLE", "Adrià Alberich - ");
-    define("_MAIN_DISCLAIMER", "Tot el contingut i codi d'aquesta pàgina ha estat generat per mi, no s'utilitza cap llibreria ni entorn de desenvolupament de tercers. Imatges i logos de tercers incorporen drets de reutilització i modificació.");
+    define("_MAIN_DISCLAIMER", "Tot el contingut i codi d'aquesta pàgina ha estat generat per mi, no s'utilitza cap llibreria ni entorn de desenvolupament de tercers. Imatges i logos de tercers disposen de drets de reutilització i modificació.");
     define("_MAIN_SOCIAL", "Segueix-me a");
     define("_MAIN_PAGE_LOADING_TIME", "La pàgina ha carregat en");
     define("_MAIN_LEGAL", "Avís legal");
-    define("_MAIN_COOKIE", "Al navegar per aquesta pàgina accepta que aquesta utilitza cookies tal com indica la nostra");
+    define("_MAIN_COOKIE", "Al navegar per aquest lloc web, accepta que aquest utilitzi cookies tal com indica la nostra");
     define("_MAIN_COOKIE_POLICY", "Política de privacitat");
     define("_MAIN_EMAIL", "me@adrialberich.com");
     define("_MAIN_DIALOG_ACCEPT", "Acceptar");
@@ -15,7 +15,7 @@
     // About me
     define("_ABOUT_NAME", "Sobre mi");
     define("_ABOUT_TITLE", "Sobre mi");
-    define("_ABOUT_HEADER_TITLE", "Sobre mi");
+    define("_ABOUT_HEADER_TITLE", "Adrià Alberich<br/>.NET Developer");
     define("_ABOUT_WHOIAM_TITLE", "Qui soc?");
     define("_ABOUT_WHOIAM_P1", "Em dic Adrià Alberich i sóc desenvolupador professional de l'entorn .NET des de fa uns 6 anys i actualment consultor de l'entorn Microsoft. La meva passió per la informàtica i la tecnologia es va començar a gestar cap al 2006, cap aquella època tenia uns 14 anys i va ser quan vaig tenir el meu primer ordinador amb connexió de banda ampla.");
     define("_ABOUT_WHOIAM_P2", "No vaig trigar a aprendre pel meu compte com codificar pàgines web i programes senzills en aquella època amb HTML i Visual Basic 6. Posteriorment va esdevenir un dels meus principals hobbies, sobretot centrant-me en la programació d'eines orientades a videojocs.");
@@ -24,6 +24,8 @@
     define("_ABOUT_HOWIWORK_P1", "Dins de les tecnologies de l'entorn Microsoft, estic especialitzat en .NET i C# principalment de la part de backend, tot i que domino perfectament tecnologies frontend com HTML5, CSS3, JS, Bootstrap i recentment Angular.");
     define("_ABOUT_HOWIWORK_P2", "També he treballat amb l'entorn de Microsoft Dynamics 365 i des de fa poc m'he endinsat a Microsoft Power Platform (Power Apps i Power Automate) i Microsoft Azure.");
     define("_ABOUT_HOWIWORK_P3", "Pel que fa a bases de dades, tinc bons coneixements de Transact-SQL, he treballat sobretot amb SQL Server, MySQL i una mica d'Oracle. Recentment estic aprenent NoSQL amb MongoDB.");
+    define("_ABOUT_WANNAHIRE_TITLE", "Vols contractar-me?");
+    define("_ABOUT_WANNAHIRE_P1", "Si creus que puc ser útil per al teu projecte, si us plau no dubtis en contactar-me. M'agraden els reptes!");
 
     // Portfolio
     define("_PORTFOLIO_NAME", "Portafolis");

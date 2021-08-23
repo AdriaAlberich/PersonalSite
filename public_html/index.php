@@ -1,4 +1,4 @@
 <?php
-    header("Location: about");
+    header("Location: https://www.adrialberich.com/about");
     die();
 ?>

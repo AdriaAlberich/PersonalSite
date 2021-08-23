@@ -2,33 +2,35 @@
 
     // Main
     define("_MAIN_TITLE", "Adrià Alberich - ");
-    define("_MAIN_DISCLAIMER", "Tot el contingut i codi d'aquesta pàgina ha estat generat per mi, no s'utilitza cap llibreria ni entorn de desenvolupament de tercers. Imatges i logos de tercers incorporen drets de reutilització i modificació.");
-    define("_MAIN_SOCIAL", "Segueix-me a");
-    define("_MAIN_PAGE_LOADING_TIME", "La pàgina ha carregat en");
-    define("_MAIN_LEGAL", "Avís legal");
-    define("_MAIN_COOKIE", "Al navegar per aquesta pàgina accepta que aquesta utilitza cookies tal com indica la nostra");
-    define("_MAIN_COOKIE_POLICY", "Política de privacitat");
+    define("_MAIN_DISCLAIMER", "Todo el contenido y código de esta página ha sido generado por mi, no se utiliza ninguna librería ni entorno de desarrollo de terceros. Imágenes y logos de terceros, disponen de derechos de reutilización y modificación.");
+    define("_MAIN_SOCIAL", "Sígueme en");
+    define("_MAIN_PAGE_LOADING_TIME", "La página ha cargado en");
+    define("_MAIN_LEGAL", "Aviso legal");
+    define("_MAIN_COOKIE", "Al navegar por el sitio acepta que éste utilice cookies tal y como indica nuestra");
+    define("_MAIN_COOKIE_POLICY", "Política de privacidad");
     define("_MAIN_EMAIL", "me@adrialberich.com");
-    define("_MAIN_DIALOG_ACCEPT", "Acceptar");
-    define("_MAIN_DIALOG_CANCEL", "Cancel·lar");
+    define("_MAIN_DIALOG_ACCEPT", "Aceptar");
+    define("_MAIN_DIALOG_CANCEL", "Cancelar");
 
     // About me
     define("_ABOUT_NAME", "Sobre mi");
     define("_ABOUT_TITLE", "Sobre mi");
-    define("_ABOUT_HEADER_TITLE", "Sobre mi");
-    define("_ABOUT_WHOIAM_TITLE", "Qui soc?");
-    define("_ABOUT_WHOIAM_P1", "Em dic Adrià Alberich i sóc desenvolupador professional de l'entorn .NET des de fa uns 6 anys i actualment consultor de l'entorn Microsoft. La meva passió per la informàtica i la tecnologia es va començar a gestar cap al 2006, cap aquella època tenia uns 14 anys i va ser quan vaig tenir el meu primer ordinador amb connexió de banda ampla.");
-    define("_ABOUT_WHOIAM_P2", "No vaig trigar a aprendre pel meu compte com codificar pàgines web i programes senzills en aquella època amb HTML i Visual Basic 6. Posteriorment va esdevenir un dels meus principals hobbies, sobretot centrant-me en la programació d'eines orientades a videojocs.");
-    define("_ABOUT_WHOIAM_P3", "Cap al 2011 vaig decidir començar a derivar els meus estudis cap a la programació professional i vaig anar alternant diferents etapes d'estudis i feina. Inicialment em vaig centrar en la programació d'aplicacions web però amb el pas dels anys  he anat derivant cap a diferents productes Microsoft i actualment es on m'estic especialitzant.");
-    define("_ABOUT_HOWIWORK_TITLE", "Com treballo?");
-    define("_ABOUT_HOWIWORK_P1", "Dins de les tecnologies de l'entorn Microsoft, estic especialitzat en .NET i C# principalment de la part de backend, tot i que domino perfectament tecnologies frontend com HTML5, CSS3, JS, Bootstrap i recentment Angular.");
-    define("_ABOUT_HOWIWORK_P2", "També he treballat amb l'entorn de Microsoft Dynamics 365 i des de fa poc m'he endinsat a Microsoft Power Platform (Power Apps i Power Automate) i Microsoft Azure.");
-    define("_ABOUT_HOWIWORK_P3", "Pel que fa a bases de dades, tinc bons coneixements de Transact-SQL, he treballat sobretot amb SQL Server, MySQL i una mica d'Oracle. Recentment estic aprenent NoSQL amb MongoDB.");
+    define("_ABOUT_HEADER_TITLE", "Adrià Alberich<br/>.NET Developer");
+    define("_ABOUT_WHOIAM_TITLE", "¿Quién soy?");
+    define("_ABOUT_WHOIAM_P1", "Me llamo Adrià Alberich y soy desarrollador profesional del entorno .NET desde hace unos 6 años y actualmente consultor del entorno Microsoft. Mi pasión por la informática y la tecnología se inició hacia el año 2006, en aquella epoca tenia unos 14 años y fué cuando tuve mi primer ordenador con conexión a banda ancha.");
+    define("_ABOUT_WHOIAM_P2", "No tardé demasiado en aprender por mi cuenta como codificar páginas web y programas sencillos, en aquell epoca con HTML y Visual Basic 6. Posteriormente se convirtió en uno de mis principales hobbies, sobretodo centrandome en la programación de herramientas orientadas a videojuegos.");
+    define("_ABOUT_WHOIAM_P3", "Hacia el 2011 decidí comenzar a derivar mis estudios hacia la programación profesional y fuí alternando diferentes períodos de estudios y trabajo. Inicialmente me centré en la programación de aplicaciones web, pero con el paso de los años he ido derivando hacia diferentes productos Microsoft y actualmente es mi área de especialización.");
+    define("_ABOUT_HOWIWORK_TITLE", "¿Como trabajo?");
+    define("_ABOUT_HOWIWORK_P1", "Dentro de las tecnologías del entorno Microsoft, estoy especializado en .NET y C# principalmente de la parte de backend, aunque también domino perfectamente tecnologias frontend como HTML5, CSS3, JS, Bootstrap y recientemente Angular.");
+    define("_ABOUT_HOWIWORK_P2", "También he trabajado con el entorno de Microsoft Dynamics 365 y desde hace poco me he metido de lleno en el area de Microsoft Power Platform (Power Apps y Power Automate) y con Microsoft Azure.");
+    define("_ABOUT_HOWIWORK_P3", "Por lo que hace a bases de datos, tengo buenos conocimientos de Transact-SQL, he trabajdo sobretodo con SQL Server, MySQL y un poco de Oracle. Recientemente estoy aprendiendo MongoDB.");
+    define("_ABOUT_WANNAHIRE_TITLE", "¿Quieres contratarme?");
+    define("_ABOUT_WANNAHIRE_P1", "Si crees que puedo ser útil a tu proyecto, porfavor, no dudes en contactarme. Me gustan los retos!");
 
     // Portfolio
-    define("_PORTFOLIO_NAME", "Portafolis");
-    define("_PORTFOLIO_TITLE", "Portafolis");
-    define("_PORTFOLIO_HEADER_TITLE", "Portafolis");
+    define("_PORTFOLIO_NAME", "Portafolios");
+    define("_PORTFOLIO_TITLE", "Portafolios");
+    define("_PORTFOLIO_HEADER_TITLE", "Portafolios");
     define("_PORTFOLIO_HEADER_DESCRIPTION_INTRO", "Aqui pots veure alguns side projects en els que he treballat i estic treballant actualment.");
     define("_PORTFOLIO_CARD_PERSONALSITE_TITLE", "adrialberich.com");
     define("_PORTFOLIO_CARD_PERSONALSITE_DESCRIPTION", "La meva pàgina web personal i portafolis. Feta de zero sense recursos externs.");
@@ -74,7 +76,7 @@
     define("_CONTACT_FORM_ERROR", "No s'ha pogut enviar el formulari, comprovi que ha marcat la casella de 'No soc un robot'.");
 
     // Legal
-    define("_LEGAL_TITLE", "Avís Legal");
+    define("_LEGAL_TITLE", "Aviso Legal");
     define("_LEGAL_BODY", "adrialberich.com, a partir d'ara ADRIALBERICH es un lloc web personal i portafolis. La pàgina web s'adapta a les diferents normatives i lleis d'àmbit espanyol i europeu com poden ser la Llei Orgànica de Protecció de Dades (LOPD, Llei 15/1999) i el Reglament General de Protecció de Dades (RGPD, 95/46/CE), realitzant les diferents actuacions corresponents per a garantir la protecció de la privacitat dels seus visitants i clients. ADRIALBERICH es troba allotjat en servidors sota lloguer i localitzats físicament a França, i sota supervisió de l'empresa OVH Inc.");
     define("_LEGAL_OWNER_TITLE", "Responsable");
     define("_LEGAL_OWNER_BODY", "El domini adrialberich.com es de titularitat de: Adrià Alberich amb NIF 47997458T (me@adrialberich.com)");
