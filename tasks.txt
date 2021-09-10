@@ -1,4 +1,0 @@
-- Adjust styles and transparencies.
-- Translate to english and spanish.
-- Add project icons or images.
-- General cleanup.

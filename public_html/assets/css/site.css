@@ -1,4 +1,5 @@
 html {
+    /*
     background: url('../img/background.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -6,7 +7,8 @@ html {
     background-size: cover;
     width: 100%;
     height: 100%;
-    /*background-color: lightgray;*/
+    */
+    background-color: lightgray;
 }
 
 html, body {
@@ -459,28 +461,28 @@ h1:hover, h2:hover, h3:hover {
 
 .card-icon {
     margin: auto;
-    width: 150px;
+    width: 300px;
     height: 150px;
 }
 
-.card-icon-web {
-    background: url(../img/icons/webdevelopment.svg);
-    background-size: 150px 150px;
+.card-icon-sadegel {
+    background: url(../img/sadegelstock.png);
+    background-size: 300px 150px;
 }
 
-.card-icon-servers {
-    background: url(../img/icons/servicerack.svg);
-    background-size: 150px 150px;
+.card-icon-mychef {
+    background: url(../img/mychef.jpg);
+    background-size: 300px 150px;
 }
 
-.card-icon-team {
-    background: url(../img/icons/team.svg);
-    background-size: 150px 150px;
+.card-icon-personal {
+    background: url(../img/personal.jpg);
+    background-size: 300px 150px;
 }
 
-.card-icon-mail {
-    background: url(../img/icons/mail.svg);
-    background-size: 150px 150px;
+.card-icon-redrp {
+    background: url(../img/rage.jpg);
+    background-size: 300px 150px;
 }
 
 .card-icon-global {
@@ -504,7 +506,7 @@ h1:hover, h2:hover, h3:hover {
 }
 
 .card-icon-coding {
-    background: url(../img/icons/coding.svg);
+    background: url(../img/icons/coding.svg) no-repeat center;
     background-size: 150px 150px;
 }
 

@@ -20,7 +20,7 @@
         <header class="card-title">
             <h3><?= _PORTFOLIO_CARD_PERSONALSITE_TITLE ?></h3>
         </header>
-        <figure class="card-icon card-icon-web"></figure>
+        <figure class="card-icon card-icon-personal"></figure>
         <main class="card-description">
             <?= _PORTFOLIO_CARD_PERSONALSITE_DESCRIPTION ?>
         </main>
@@ -30,7 +30,7 @@
         <header class="card-title">
             <h3><?= _PORTFOLIO_CARD_SADEGELSTOCK_TITLE ?></h3>
         </header>
-        <figure class="card-icon card-icon-team"></figure>
+        <figure class="card-icon card-icon-sadegel"></figure>
         <main class="card-description">
             <?= _PORTFOLIO_CARD_SADEGELSTOCK_DESCRIPTION ?>
         </main>
@@ -40,7 +40,7 @@
         <header class="card-title">
             <h3><?= _PORTFOLIO_CARD_REDRP_TITLE ?></h3>
         </header>
-        <figure class="card-icon card-icon-servers"></figure>
+        <figure class="card-icon card-icon-redrp"></figure>
         <main class="card-description">
             <?= _PORTFOLIO_CARD_REDRP_DESCRIPTION ?>
         </main>
@@ -50,7 +50,7 @@
         <header class="card-title">
             <h3><?= _PORTFOLIO_CARD_MYCHEF_TITLE ?></h3>
         </header>
-        <figure class="card-icon card-icon-global"></figure>
+        <figure class="card-icon card-icon-mychef"></figure>
         <main class="card-description">
             <?= _PORTFOLIO_CARD_MYCHEF_DESCRIPTION ?>
         </main>
@@ -60,7 +60,7 @@
         <header class="card-title">
             <h3><?= _PORTFOLIO_CARD_GAMEINSTANCE_TITLE ?></h3>
         </header>
-        <figure class="card-icon card-icon-mail"></figure>
+        <figure class="card-icon card-icon-coding"></figure>
         <main class="card-description">
             <?= _PORTFOLIO_CARD_GAMEINSTANCE_DESCRIPTION ?>
         </main>
@@ -83,6 +83,7 @@
 <section class="section-item section-item-orange" id="sadegelstock">
     <div style="float: left">
         <header><?= _PORTFOLIO_SECTION_SADEGELSTOCK_TITLE ?></header>
+        <img src="./assets/img/sadegelstock.png" style="width: 768px; height: auto;"/>
         <main>
             <p><?= _PORTFOLIO_SECTION_SADEGELSTOCK_DESCRIPTION ?></p>
             <p><a href="https://github.com/AdriaAlberich/SadegelStock" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
@@ -106,6 +107,7 @@
 
 <section class="section-item section-item-orange" id="mychef">
     <header><?= _PORTFOLIO_SECTION_MYCHEF_TITLE ?></header>
+    <img src="./assets/img/mychef.jpg" style="width: 768px; height: auto;"/>
     <main>
         <p><?= _PORTFOLIO_SECTION_MYCHEF_DESCRIPTION ?></p>
         <p><a href="https://github.com/AdriaAlberich/MyChef" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
@@ -118,7 +120,6 @@
     <header><?= _PORTFOLIO_SECTION_GAMEINSTANCE_TITLE ?></header>
     <main>
         <p><?= _PORTFOLIO_SECTION_GAMEINSTANCE_DESCRIPTION ?></p>
-        <p><a href="#" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
     </main>
 </section>
 
