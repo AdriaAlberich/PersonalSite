@@ -21,7 +21,7 @@
     define("_ABOUT_WHOIAM_P2", "It didn't take long before I started learning how to code websites and simple applications by myself, at this time in HTML and Visual Basic 6 respectively. Then it became one of my main hobbies, mostly focusing on videogame modding tools.");
     define("_ABOUT_WHOIAM_P3", "Around 2011 I decided to start leading my studies to professional programming, and I began alternating between studies and work. Initially I focused on web applications, but then I migrated to Microsoft backend technologies and currently it's my specialty.");
     define("_ABOUT_HOWIWORK_TITLE", "How do I work?");
-    define("_ABOUT_HOWIWORK_P1", "Inside Microsoft technologies, I'm specializen on .NET and C#, as I said previously, mainly on backend applications and APIs. However I'm also fluent with frontend technologies like HTML, CSS, JS, Bootstrap, and recently Angular.");
+    define("_ABOUT_HOWIWORK_P1", "Inside Microsoft technologies, I'm specialized on .NET and C#, as I said previously, mainly on backend applications and APIs. However I'm also fluent with frontend technologies like HTML, CSS, JS, Bootstrap, and recently Angular.");
     define("_ABOUT_HOWIWORK_P2", "I also worked with Microsoft Dynamics 365, and recenlty I started some digging on Microsoft Power Platform and Azure.");
     define("_ABOUT_HOWIWORK_P3", "On the database side, I have good knowledge of Transact-SQL, I worked mostly with SQL Server and MySQL, I also have a bit knowledge of Oracle databases. Currently I am learning MongoDB as a NoSQL alternative.");
     define("_ABOUT_WANNAHIRE_TITLE", "Want to hire me?");
@@ -43,6 +43,7 @@
     define("_PORTFOLIO_CARD_GAMEINSTANCE_TITLE", "Game Instance");
     define("_PORTFOLIO_CARD_GAMEINSTANCE_DESCRIPTION", "Cloud-based game server mangement system.");
     define("_PORTFOLIO_CARD_BUTTON_LEARNMORE", "Learn more");
+    define("_PORTFOLIO_SECTION_REPOSITORY", "Source code");
     define("_PORTFOLIO_SECTION_PERSONALSITE_TITLE", "adrialberich.com");
     define("_PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION", "My personal website made from the ground up with HTML5, CSS3 and JS. As a personal challenge, I decided not to use any tool or external resource.");
     define("_PORTFOLIO_SECTION_SADEGELSTOCK_TITLE", "Sadegel Stock");
@@ -53,7 +54,7 @@
     define("_PORTFOLIO_SECTION_MYCHEF_DESCRIPTION", "This was the final programming school project. It is a web application made with PHP (Laravel) that works as a social network. The chefs have their profile pages and the rest of the users can search for them and hire them for private events and parties.");
     define("_PORTFOLIO_SECTION_GAMEINSTANCE_TITLE", "Game Instance");
     define("_PORTFOLIO_SECTION_GAMEINSTANCE_DESCRIPTION", "Game Instance is a recent project. The idea is to make a game server management system that can be easily deployed in the cloud. This is meant to be used by people with no technical knowledge. It uses the most recent technologies, like .NET 5 and ngx-admin (Angular 9+). Source code not available.");
-
+    
     // Contact
     define("_CONTACT_NAME", "Contact");
     define("_CONTACT_TITLE", "Contact");

@@ -43,6 +43,7 @@
     define("_PORTFOLIO_CARD_GAMEINSTANCE_TITLE", "Game Instance");
     define("_PORTFOLIO_CARD_GAMEINSTANCE_DESCRIPTION", "Sistema de control de servidores de juego en la nube.");
     define("_PORTFOLIO_CARD_BUTTON_LEARNMORE", "Saber más");
+    define("_PORTFOLIO_SECTION_REPOSITORY", "Código fuente");
     define("_PORTFOLIO_SECTION_PERSONALSITE_TITLE", "adrialberich.com");
     define("_PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION", "Mi página web personal hecha de cero con HTML5, CSS3 y JS. Como reto personal, decidí no utilizar ninguna herramienta ni recurso externo.");
     define("_PORTFOLIO_SECTION_SADEGELSTOCK_TITLE", "Sadegel Stock");

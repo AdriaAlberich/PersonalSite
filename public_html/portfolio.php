@@ -73,7 +73,7 @@
         <header><?= _PORTFOLIO_SECTION_PERSONALSITE_TITLE ?></header>
         <main>
             <p><?= _PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION ?></p>
-            <p><a href="https://github.com/AdriaAlberich/PersonalSite" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
+            <p><a href="https://github.com/AdriaAlberich/PersonalSite" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/><?= _PORTFOLIO_SECTION_REPOSITORY ?></a></p>
         </main>
     </div>
 </section>
@@ -86,7 +86,7 @@
         <img src="./assets/img/sadegelstock.png" style="width: 768px; height: auto;"/>
         <main>
             <p><?= _PORTFOLIO_SECTION_SADEGELSTOCK_DESCRIPTION ?></p>
-            <p><a href="https://github.com/AdriaAlberich/SadegelStock" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
+            <p><a href="https://github.com/AdriaAlberich/SadegelStock" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/><?= _PORTFOLIO_SECTION_REPOSITORY ?></a></p>
         </main>
     </div>
 </section>
@@ -98,7 +98,7 @@
         <header><?= _PORTFOLIO_SECTION_REDRP_TITLE ?></header>
         <main>
             <p><?= _PORTFOLIO_SECTION_REDRP_DESCRIPTION ?></p>
-            <p><a href="https://github.com/AdriaAlberich/RedRP" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
+            <p><a href="https://github.com/AdriaAlberich/RedRP" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/><?= _PORTFOLIO_SECTION_REPOSITORY ?></a></p>
         </main>
     </div>
 </section>
@@ -110,7 +110,7 @@
     <img src="./assets/img/mychef.jpg" style="width: 768px; height: auto;"/>
     <main>
         <p><?= _PORTFOLIO_SECTION_MYCHEF_DESCRIPTION ?></p>
-        <p><a href="https://github.com/AdriaAlberich/MyChef" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/>Repositori GitHub</a></p>
+        <p><a href="https://github.com/AdriaAlberich/MyChef" target="_blank" class="button" style="max-width: 200px"><img src="./assets/img/github.png" style="width:32px;height:32px"/><br/><?= _PORTFOLIO_SECTION_REPOSITORY ?></a></p>
     </main>
 </section>
 

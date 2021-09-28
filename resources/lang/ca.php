@@ -43,6 +43,7 @@
     define("_PORTFOLIO_CARD_GAMEINSTANCE_TITLE", "Game Instance");
     define("_PORTFOLIO_CARD_GAMEINSTANCE_DESCRIPTION", "Sistema de control de servidors de joc al núvol.");
     define("_PORTFOLIO_CARD_BUTTON_LEARNMORE", "Saber més");
+    define("_PORTFOLIO_SECTION_REPOSITORY", "Codi font");
     define("_PORTFOLIO_SECTION_PERSONALSITE_TITLE", "adrialberich.com");
     define("_PORTFOLIO_SECTION_PERSONALSITE_DESCRIPTION", "La meva pàgina web personal feta de zero amb HTML5, CSS3 i JS. Com a repte personal, vaig decidir no utilitzar cap eina ni recurs extern.");
     define("_PORTFOLIO_SECTION_SADEGELSTOCK_TITLE", "Sadegel Stock");
